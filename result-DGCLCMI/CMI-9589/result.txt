@@ -1,0 +1,10 @@
+dataset:CMI-9589
+epoch:968  Test_Specificity: 0.9360  Test_Precision: 0.9233  Test_Sensitivity: 0.7810  Test_MCC: 0.7255  Test_Accuracy: 0.8586  Test ROC AUC: 0.9571  Test AUPR: 0.9461495233844615
+dataset:CMI-9589
+epoch:852  Test_Specificity: 0.9419  Test_Precision: 0.9279  Test_Sensitivity: 0.7553  Test_MCC: 0.7091  Test_Accuracy: 0.8481  Test ROC AUC: 0.9564  Test AUPR: 0.9447649245905245
+dataset:CMI-9589
+epoch:964  Test_Specificity: 0.9462  Test_Precision: 0.9344  Test_Sensitivity: 0.7688  Test_MCC: 0.7265  Test_Accuracy: 0.8576  Test ROC AUC: 0.9600  Test AUPR: 0.9487418067912727
+dataset:CMI-9589
+epoch:994  Test_Specificity: 0.9430  Test_Precision: 0.9320  Test_Sensitivity: 0.7884  Test_MCC: 0.7399  Test_Accuracy: 0.8654  Test ROC AUC: 0.9628  Test AUPR: 0.9525203982184538
+dataset:CMI-9589
+epoch:976  Test_Specificity: 0.9514  Test_Precision: 0.9414  Test_Sensitivity: 0.7856  Test_MCC: 0.7473  Test_Accuracy: 0.8685  Test ROC AUC: 0.9687  Test AUPR: 0.9583131749802581
