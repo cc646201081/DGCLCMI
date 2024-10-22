@@ -24,4 +24,4 @@ The three datasets of circRNA-miRNA interactions are provided to evaluate our DG
 
 
 # Contact
-If you have any suggestions or questions, please email me at caochao_lml@std.uestc.edu.cns
+If you have any suggestions or questions, please email me at caochao_lml@std.uestc.edu.cn
