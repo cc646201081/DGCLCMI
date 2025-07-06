@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="37b50f60-5ea2-4524-9b42-f8e7172f1a81" name="zqcaochao@172.18.24.52:22 password (3)">
+        <fileTransfer rootFolder="/home/zqcaochao/PythonProject/DGCLCMI-main" accessType="SFTP" host="172.18.24.52" port="22" sshConfigId="19daed95-6509-49a4-b0fe-8a88cd7861f1" sshConfig="zqcaochao@172.18.24.52:22 password" />
+      </webServer>
+    </option>
+  </component>
+</project>
